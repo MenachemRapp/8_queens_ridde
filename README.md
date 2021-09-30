@@ -1,2 +1,2 @@
 # 8_queens_ridde
-Creates a chessboard with 8 queens by using a recursion
+Places 8 queens on chessboard in a way where no two queens threaten each other, by using a recursion.
